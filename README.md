@@ -2,7 +2,7 @@
 
 ## Apa itu CV OKE CELL?
 
-Web CV OKE CELL yang dibuat oleh <a href="https://github.com/adhiariyadi"> Adhi Ariyadi </a>. **CV OKE CELL adalah aplikasi Penjualan HP berbasis desktop yang di buat menggunakan vb.NET dan SQL SERVER**
+Aplikasi CV OKE CELL yang dibuat oleh <a href="https://github.com/adhiariyadi"> Adhi Ariyadi </a>. **CV OKE CELL adalah aplikasi Penjualan HP berbasis desktop yang di buat menggunakan vb.NET dan SQL SERVER**
 
 ## Fitur apa saja yang tersedia di CV OKE CELL?
 
